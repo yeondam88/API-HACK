@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Dosis', sans-serif;
+  text-align: center;
+}
+
+ul li {
+  list-style-type: none;
+}
+
+
+#main-container h1 {
+  text-align: center;
+}
+
+#search {
+  padding: 13.5px 30px;
+  font-size: 1.5em;
+}
+
+#submit-btn {
+  padding: 20px;
+  border-style: none;
+  background-color: firebrick;
+  cursor: pointer;
+}
+
+section#results {
+  width: 30%;
+  margin: 0 auto;
+}
+
+ul {
+  text-align: left;
+}
+
+ul li {
+  font-size: 1.5em;
+  line-height: 1.5em;
+} 
